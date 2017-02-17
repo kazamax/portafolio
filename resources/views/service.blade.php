@@ -14,7 +14,8 @@
                             <h2>Service</h2>
                             <ol class="breadcrumb">
                                 <li>
-                                    <a href="{{ route('home') }}">
+                                 <?php $inicio = 'https://web-kaz.herokuapp.com/'; ?>
+                                    <a href="{{ $inicio }}">
                                         <i class="ion-ios-home"></i>
                                         Inicio
                                     </a>

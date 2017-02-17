@@ -82,10 +82,14 @@ Header Section Start
 		<nav class="collapse navbar-collapse navbar-right" role="navigation">
 			<div class="main-menu">
 				<ul class="nav navbar-nav navbar-right">
-					<li><a href=" <?php echo 'https://'; ?>{{ route('home') }}" >Inicio</a></li>
-					<li><a href=" <?php echo 'https://'; ?>{{ route('about') }}">Nosotros</a></li>
-					<li><a href=" <?php echo 'https://'; ?>{{ route('service') }}">Servicios</a></li>
-					<li><a href=" <?php echo 'https://'; ?>{{ route('contact') }}">Contacto</a></li>
+                    <?php $inicio = 'https://web-kaz.herokuapp.com/'; ?>
+                    <?php $nosotros = 'https://web-kaz.herokuapp.com/nosotros'; ?>
+                    <?php $servicios = 'https://web-kaz.herokuapp.com/servicios'; ?>
+                    <?php $contacto = 'https://web-kaz.herokuapp.com/contacto'; ?>
+					<li><a href="{{ $inicio }}" >Inicio</a></li>
+					<li><a href="{{ $nosotros }}">Nosotros</a></li>
+					<li><a href="{{ $servicios }}">Servicios</a></li>
+					<li><a href="{{ $contacto }}">Contacto</a></li>
 				</ul>
 			</div>
 		</nav>
@@ -110,7 +114,7 @@ Header Section Start
                         <div class="block">
                             <h2 class="title wow fadeInDown" data-wow-delay=".3s" data-wow-duration="500ms">INTERESADO/A EN QUE TRABAJEMOS JUNTOS?</h1>
                             <p class="wow fadeInDown" data-wow-delay=".5s" data-wow-duration="500ms">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,</br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium.</p>
-                            <a href="{{ route('contact') }}" class="btn btn-default btn-contact wow fadeInDown" data-wow-delay=".7s" data-wow-duration="500ms">Contacta conmigo</a>
+                            <a href="{{ $contacto }}" class="btn btn-default btn-contact wow fadeInDown" data-wow-delay=".7s" data-wow-duration="500ms">Contacta conmigo</a>
                         </div>
                     </div>
                     
