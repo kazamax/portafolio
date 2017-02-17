@@ -82,10 +82,10 @@ Header Section Start
 		<nav class="collapse navbar-collapse navbar-right" role="navigation">
 			<div class="main-menu">
 				<ul class="nav navbar-nav navbar-right">
-					<li><a href="{{ route('home') }}" >Inicio</a></li>
-					<li><a href="{{ route('about') }}">Nosotros</a></li>
-					<li><a href="{{ route('service') }}">Servicios</a></li>
-					<li><a href="{{ route('contact') }}">Contacto</a></li>
+					<li><a href=" <?php echo 'https://'; ?>{{ route('home') }}" >Inicio</a></li>
+					<li><a href=" <?php echo 'https://'; ?>{{ route('about') }}">Nosotros</a></li>
+					<li><a href=" <?php echo 'https://'; ?>{{ route('service') }}">Servicios</a></li>
+					<li><a href=" <?php echo 'https://'; ?>{{ route('contact') }}">Contacto</a></li>
 				</ul>
 			</div>
 		</nav>
