@@ -4,12 +4,14 @@
 <!-- Basic Page Needs
 ================================================== -->
 <meta charset="utf-8">
+<title>@yield('title', 'Diseño de paginas web para tu negocio, empresa u oficina.')</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="icon" type="image/png" href="images/favicon.png">
-<title>Desarrollo de paginas web</title>
-<meta name="description" content="">
+<meta name="description" content="Freelance, Diseño y programación de paginas web, tiendas online, sitios web profesionales para ti, tu negocio, o empresa freelance Roberto Figuera Venezuela">
 <meta name="keywords" content="">
-<meta name="author" content="">
+<meta name="author" content="http://roberto-figuera.16mb.com/">
+<meta name="owner" content="Roberto Jose Figuera Espinoza">
+<meta name="robots" content="index, follow">
 <!-- Mobile Specific Metas
 ================================================== -->
 <meta name="format-detection" content="telephone=no">
@@ -21,6 +23,7 @@
 <link rel="stylesheet" href="css/bootstrap.min.css">
 <!-- Ionicons Fonts Css -->
 <link rel="stylesheet" href="css/ionicons.min.css">
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 <!-- animate css -->
 <link rel="stylesheet" href="css/animate.css">
 <!-- Hero area slider css-->
@@ -59,106 +62,102 @@
 Header Section Start
 ================================================== -->
 <header id="top-bar" class="navbar-fixed-top animated-header">
-	<div class="container">
-		<div class="navbar-header">
-			<!-- responsive nav button -->
-			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-				<span class="sr-only">Toggle navigation</span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</button>
-			<!-- /responsive nav button -->
+<div class="container">
+	<div class="navbar-header">
+		<!-- responsive nav button -->
+		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+			<span class="sr-only">Toggle navigation</span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+		</button>
+		<!-- /responsive nav button -->
 
-			<!-- logo -->
-			<div class="navbar-brand">
-				<a href="index.html" >
-					<img src="images/logo.png" alt="">
-				</a>
-			</div>
-			<!-- /logo -->
+		<!-- logo -->
+		<div class="navbar-brand">
+			<a href="index.html" >
+				<img src="images/logo.png" alt="">
+			</a>
 		</div>
-		<!-- main menu -->
-		<nav class="collapse navbar-collapse navbar-right" role="navigation">
-			<div class="main-menu">
-				<ul class="nav navbar-nav navbar-right">
-                    <?php $inicio = 'https://web-kaz.herokuapp.com/'; ?>
-                    <?php $nosotros = 'https://web-kaz.herokuapp.com/nosotros'; ?>
-                    <?php $servicios = 'https://web-kaz.herokuapp.com/servicios'; ?>
-                    <?php $contacto = 'https://web-kaz.herokuapp.com/contacto'; ?>
-					<li><a href="{{ $inicio }}" >Inicio</a></li>
-					<li><a href="{{ $nosotros }}">Nosotros</a></li>
-					<li><a href="{{ $servicios }}">Servicios</a></li>
-					<li><a href="{{ $contacto }}">Contacto</a></li>
-				</ul>
-			</div>
-		</nav>
-		<!-- /main nav -->
+		<!-- /logo -->
 	</div>
+	<!-- main menu -->
+	<nav class="collapse navbar-collapse navbar-right" role="navigation">
+		<div class="main-menu">
+			<ul class="nav navbar-nav navbar-right">
+                <?php $inicio = 'https://web-kaz.herokuapp.com/'; ?>
+                <?php $quiensoy = 'https://web-kaz.herokuapp.com/quien-soy'; ?>
+                <?php $servicios = 'https://web-kaz.herokuapp.com/servicios'; ?>
+                <?php $contacto = 'https://web-kaz.herokuapp.com/contacto'; ?>
+				<li><a href="{{ $inicio }}" >Inicio</a></li>
+				<li><a href="{{ $servicios }}">Servicios</a></li>
+				<li><a href="{{ $quiensoy}}">Quien-soy</a></li>
+				<li><a href="{{ $contacto }}">Contacto</a></li>
+			</ul>
+		</div>
+	</nav>
+	<!-- /main nav -->
+</div>
 </header>
 
 
 
 
 @yield('content')
-
-
-	    <!-- 
-        ================================================== 
-            Call To Action Section Start
-        ================================================== -->
-        <section id="call-to-action">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="block">
-                            <h2 class="title wow fadeInDown" data-wow-delay=".3s" data-wow-duration="500ms">INTERESADO/A EN QUE TRABAJEMOS JUNTOS?</h1>
-                            <p class="wow fadeInDown" data-wow-delay=".5s" data-wow-duration="500ms">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,</br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium.</p>
-                            <a href="{{ $contacto }}" class="btn btn-default btn-contact wow fadeInDown" data-wow-delay=".7s" data-wow-duration="500ms">Contacta conmigo</a>
-                        </div>
-                    </div>
-                    
-                </div>
-            </div>
-        </section>
-
-
-    <!--
-    ==================================================
-    Footer Section Start
+    <!-- 
+    ================================================== 
+        Call To Action Section Start
     ================================================== -->
-    <footer id="footer">
-    	<div class="container">
-    		<div class="col-md-8">
-    			<p class="copyright">Copyright: <span>2017</span> . Design and Developed by <a href="https://www.facebook.com/RobertoDevel">Roberto Figuera</a></p>
-    		</div>
-    		<div class="col-md-4">
-    			<!-- Social Media -->
-    			<ul class="social">
-    				<li>
-    					<a href="http://wwww.fb.com/themefisher" class="Facebook">
-    						<i class="ion-social-facebook"></i>
-    					</a>
-    				</li>
-    				<li>
-    					<a href="http://wwww.twitter.com/themefisher" class="Twitter">
-    						<i class="ion-social-twitter"></i>
-    					</a>
-    				</li>
-    				<li>
-    					<a href="#" class="Linkedin">
-    						<i class="ion-social-linkedin"></i>
-    					</a>
-    				</li>
-    				<li>
-    					<a href="http://wwww.fb.com/themefisher" class="Google Plus">
-    						<i class="ion-social-googleplus"></i>
-    					</a>
-    				</li>
-    			</ul>
-    		</div>
-    	</div>
-    </footer> <!-- /#footer -->
-
+    <section id="call-to-action">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="block">
+                        <h2 class="title wow fadeInDown" data-wow-delay=".3s" data-wow-duration="500ms">INTERESADO/A EN QUE TRABAJEMOS JUNTOS?</h1>
+                        <p class="wow fadeInDown" data-wow-delay=".5s" data-wow-duration="500ms">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,</br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium.</p>
+                        <a href="{{ $contacto }}" class="btn btn-default btn-contact wow fadeInDown" data-wow-delay=".7s" data-wow-duration="500ms">Contacta conmigo</a>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section>
+<!--
+==================================================
+Footer Section Start
+================================================== -->
+<footer id="footer">
+	<div class="container">
+		<div class="col-md-8">
+			<p class="copyright"><i class="fa fa-copyright" aria-hidden="true"></i>
+ Copyright <span>2017 </span> | Design and developed by <a href="https://www.facebook.com/RobertoDevel">Roberto Figuera</a></p>
+		</div>
+		<div class="col-md-4">
+			<!-- Social Media -->
+			<ul class="social">
+				<li>
+					<a href="http://wwww.fb.com/themefisher" class="Facebook">
+						<i class="ion-social-facebook"></i>
+					</a>
+				</li>
+				<li>
+					<a href="http://wwww.twitter.com/themefisher" class="Twitter">
+						<i class="ion-social-twitter"></i>
+					</a>
+				</li>
+				<li>
+					<a href="#" class="Linkedin">
+						<i class="ion-social-linkedin"></i>
+					</a>
+				</li>
+				<li>
+					<a href="http://wwww.fb.com/themefisher" class="Google Plus">
+						<i class="ion-social-googleplus"></i>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</footer> <!-- /#footer -->
 </body>
 </html>

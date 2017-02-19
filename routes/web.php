@@ -19,7 +19,7 @@ Route::get('contacto', function () {
     return view('contact');
 })->name('contact');
 
-Route::get('nosotros', function () {
+Route::get('quien-soy', function () {
     return view('about');
 })->name('about');
 
