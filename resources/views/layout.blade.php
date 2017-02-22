@@ -77,7 +77,7 @@ Header Section Start
 		<div class="navbar-brand ocultar">
 			<?php $inicio = 'https://web-kaz.herokuapp.com/'; ?>
 			<a href="{{ $inicio }}" >
-				<img style="margin-top:-30px;height: 85px" src="images/logo-1.jpg" alt="">
+				<img style="margin-top:-30px;height: 85px" src="images/logo-pagina-web-webkaz.jpg" alt="">
 			</a>
 		</div>
 		<!-- /logo -->
@@ -138,12 +138,12 @@ Footer Section Start
 			<!-- Social Media -->
 			<ul class="social">
 				<li>
-					<a href="http://wwww.fb.com/themefisher" class="Facebook">
+					<a href="https://www.facebook.com/RobertoDevel" class="Facebook">
 						<i class="ion-social-facebook"></i>
 					</a>
 				</li>
 				<li>
-					<a href="http://wwww.twitter.com/themefisher" class="Twitter">
+					<a href="http://wwww.twitter.com/robertoDevel" class="Twitter">
 						<i class="ion-social-twitter"></i>
 					</a>
 				</li>
@@ -153,7 +153,7 @@ Footer Section Start
 					</a>
 				</li>
 				<li>
-					<a href="http://wwww.fb.com/themefisher" class="Google Plus">
+					<a href="#" class="Google Plus">
 						<i class="ion-social-googleplus"></i>
 					</a>
 				</li>
