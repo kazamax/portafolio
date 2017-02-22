@@ -1,8 +1,8 @@
 @extends('layout')
-@section('title', 'Aca va el titulo de esta sección')
+@section('title', 'Desarrollo de aplicaciones web, tiendas online, blog, paginas web, landing pages.')
 
 @section('content')
-
+olo
 <!--
 ==================================================
 Slider Section Start
@@ -21,13 +21,15 @@ Slider Section Start
                                 <b class="is-visible">Tiendas-online | <i class="fa fa-cart-plus" aria-hidden="true"></i></b>
                                 <b>Paginas-de-contacto | <i class="fa fa-users" aria-hidden="true"></i></b>
                                 <b>Blogs-informativos | <i class="fa fa-rss" aria-hidden="true"></i></b>
-                                <b>Proyectos-universitarios | <i class="fa fa-graduation-cap" aria-hidden="true"></i></b>
+                                <b>Proy.-universitarios | <i class="fa fa-graduation-cap" aria-hidden="true"></i></b>
                             </span> 
                         </h1>
                     </section> <!-- cd-intro -->
                     <!-- /.slider -->
                     <h2 class="wow fadeInUp animated" data-wow-delay="1.4s" >
-                        Enfocado en dar soluciones web a tu medida<br> adaptando tu necesidad a resultados positivos.                     </h2>
+                        Enfocado en dar soluciones web a tu medida.<br>
+                        <b>Desarrollo-webkaz</b>
+                        </h2>
                     <a class="btn-lines dark light wow fadeInUp animated smooth-scroll btn btn-default btn-green" data-wow-delay="1.8s" href="#works" data-section="#works" ><i class="fa fa-angle-double-down fa-2x" aria-hidden="true"></i></i></a>
 
                 </div>
@@ -44,15 +46,13 @@ Slider Section Start
         <div class="row">
             <div class="col-md-6 col-sm-6">
                 <div class="block wow fadeInLeft" data-wow-delay=".3s" data-wow-duration="500ms">
-                    <h2>
+                    <h2 style="text-align: center;font-size: 1.7em;" class="fondo-h2">
                         SOBRE MI
                     </h2>
                     <p>
-                        Mi nombre es Roberto Figuera me encanta programar  <i class="fa fa-heart-o" aria-hidden="true"></i> , Me considero una persona 100% autodidacta, en mis ratos libres me divierto con juegos online, me gustan los retos, ayudar a las personas y vivir aplicando este paradigma : Lifelong learning...</p>
+                        Mi nombre es Roberto Figuera y me encanta programar  <i class="fa fa-heart-o" aria-hidden="true"></i> Me considero una persona 100% autodidacta, en mis ratos libres me divierto con juegos online, de alli nacio mi seudónimo Kazama me gustan los retos, ayudar a las personas y vivir aplicando el paradigma Lifelong learning...</p>
                     </p>
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero.
-                    </p>
+                    <b>YOU'RE WELCOME TO MY WEB SITE!!!</b>
                 </div>
                 
             </div>
@@ -72,9 +72,9 @@ Portfolio Section Start
 <section id="works" class="works">
     <div class="container">
         <div class="section-heading">
-            <h1 class="title wow fadeInDown" data-wow-delay=".3s">ULTIMOS PROYECTOS</h1>
-            <p class="wow fadeInDown" data-wow-delay=".5s">
-                Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere <br> tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.
+            <h2 class=" wow fadeInDown fondo-h2" data-wow-delay=".4s">ULTIMOS PROYECTOS</h2>
+            <p class="wow fadeInDown" data-wow-delay=".8s">
+                En esta sección muestro algunos de mis proyectos ya terminados y otros que estan por terminar<br> en este caso una tienda en linea y dos portafolios personales.
             </p>
         </div>
         <div class="row">
@@ -227,9 +227,9 @@ Portfolio Section Start
 <section id="feature">
     <div class="container">
         <div class="section-heading">
-            <h1 class="title wow fadeInDown" data-wow-delay=".3s">SERVICIOS</h1>
-            <p class="wow fadeInDown" data-wow-delay=".5s">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed,<br> quasi dolores numquam dolor vero ex, tempora commodi repellendus quod laborum.
+            <h2 class="wow fadeInDown fondo-h2" data-wow-delay=".4s">SERVICIOS</h2>
+            <p class="wow fadeInDown" data-wow-delay=".8s">
+                Aca muestro un poco sobre la ventaja de elegirme para que podamos trabajar en algun proyecto<br> personal o alguna idea de negocio siempre pensando en la solucion<br> que mas se adapte a la necesidad del cliente.
             </p>
         </div>
         <div class="row">
