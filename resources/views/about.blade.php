@@ -44,7 +44,7 @@
                         <div class="block">
                             <h2 style="text-align: center;" class="subtitle wow fadeInUp  " data-wow-delay=".7s" data-wow-duration="500ms">Marcando la diferencia en desarrollo de aplicaciones web</h2>
                             <p class="wow fadeInUp text-indent" data-wow-delay=".9s" data-wow-duration="500ms">
-                                Para desarrollar una aplicacion web, pagina personal, blog, o tienda en linea se debe tener conocimiento y dominio de uno o mas <strong>lenguajes de programaci髇</strong> y dependiendo de los requerimientos que va a llevar el desarrollo del proyecto y de el grado de complejidad se deben utilizar unas u otras herramientas.<br><br> Por eso siempre estoy enfocado en aprender distintas tecnologias y lenguajes de programaci髇 para un desarrollo oportuno y confiable, esto con la finalidad de brindar un servicio profesional y que el cliente quede feliz y satisfecho con la inversion hecha.
+                                Para desarrollar una aplicacion web, pagina personal, blog, o tienda en linea se debe tener conocimiento y dominio de uno o mas <strong>lenguajes de programaci贸n</strong> y dependiendo de los requerimientos que va a llevar el desarrollo del proyecto y de el grado de complejidad se deben utilizar unas u otras herramientas.<br><br> Por eso siempre estoy enfocado en aprender distintas tecnologias y lenguajes de programaci贸n para un desarrollo oportuno y confiable, esto con la finalidad de brindar un servicio profesional y que el cliente quede feliz y satisfecho con la inversion hecha.
                             </p>
                         </div>
                     </div>
@@ -62,7 +62,7 @@
                 <div class="row">
                     <div class="block about-feature-1 wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">
                         <h2>
-                        En construcci髇
+                        En construcci贸n
                         </h2>
                         <p>
                             Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
@@ -70,7 +70,7 @@
                     </div>
                     <div class="block about-feature-2 wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">
                         <h2 class="item_title">
-                        En construcci髇
+                        En construcci贸n
                         </h2>
                         <p>
                             Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
@@ -78,7 +78,7 @@
                     </div>
                     <div class="block about-feature-3 wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".7s">
                         <h2 class="item_title">
-                        En construcci髇
+                        En construcci贸n
                         </h2>
                         <p>
                             Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
@@ -121,10 +121,10 @@
                             
                             <h3 class="team_name">Cursos</h3><br>
                             <p class="team_text">Html5,css3 y php 25/horas.</p>
-                            <p class="team_text">Dise駉 web desde cero a avanzado <a target="_blank" href="https://www.udemy.com/diseno-web-desde-cero/"> ( Udemy ) </a> - 45/horas.</p>
+                            <p class="team_text">Dise帽o web desde cero a avanzado <a target="_blank" href="https://www.udemy.com/diseno-web-desde-cero/"> ( Udemy ) </a> - 45/horas.</p>
                             <p class="team_text">Manejo gnu-linux 20-horas.</p>
                             <p class="team_text">Ofimatica en software libre 20-horas.</p>
-                            <p class="team_text">Reparaci髇 y mantenimiento de computadoras 20/horas.</p>
+                            <p class="team_text">Reparaci贸n y mantenimiento de computadoras 20/horas.</p>
 
                         </div>
                     </div>
