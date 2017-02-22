@@ -12,12 +12,12 @@
 <meta name="author" content="http://roberto-figuera.16mb.com/">
 <meta name="owner" content="Roberto Jose Figuera Espinoza">
 <meta name="robots" content="index, follow">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <!-- Mobile Specific Metas
 ================================================== -->
 <meta name="format-detection" content="telephone=no">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Template CSS Files
+<link href="https://fonts.googleapis.com/css?family=Arimo" rel="stylesheet"><!-- Template CSS Files
 ================================================== -->
 <!-- Twitter Bootstrs CSS -->
 <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -74,9 +74,10 @@ Header Section Start
 		<!-- /responsive nav button -->
 
 		<!-- logo -->
-		<div class="navbar-brand">
-			<a href="index.html" >
-				<img src="images/logo.png" alt="">
+		<div class="navbar-brand ocultar">
+			<?php $inicio = 'https://web-kaz.herokuapp.com/'; ?>
+			<a href="{{ $inicio }}" >
+				<img style="margin-top:-30px;height: 85px" src="images/logo-1.jpg" alt="">
 			</a>
 		</div>
 		<!-- /logo -->
@@ -85,7 +86,6 @@ Header Section Start
 	<nav class="collapse navbar-collapse navbar-right" role="navigation">
 		<div class="main-menu">
 			<ul class="nav navbar-nav navbar-right">
-                <?php $inicio = 'https://web-kaz.herokuapp.com/'; ?>
                 <?php $quiensoy = 'https://web-kaz.herokuapp.com/quien-soy'; ?>
                 <?php $servicios = 'https://web-kaz.herokuapp.com/servicios'; ?>
                 <?php $contacto = 'https://web-kaz.herokuapp.com/contacto'; ?>
@@ -113,9 +113,11 @@ Header Section Start
             <div class="row">
                 <div class="col-md-12">
                     <div class="block">
-                        <h2 class="title wow fadeInDown" data-wow-delay=".3s" data-wow-duration="500ms">INTERESADO/A EN QUE TRABAJEMOS JUNTOS?</h1>
-                        <p class="wow fadeInDown" data-wow-delay=".5s" data-wow-duration="500ms">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,</br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium.</p>
-                        <a href="{{ $contacto }}" class="btn btn-default btn-contact wow fadeInDown" data-wow-delay=".7s" data-wow-duration="500ms">Contacta conmigo</a>
+                        <h2 class="title wow fadeInDown" data-wow-delay=".5s" data-wow-duration="500ms">INTERESADO/A EN QUE TRABAJEMOS JUNTOS?</h1>
+                        <p class="wow fadeInDown" data-wow-delay=".7s" data-wow-duration="500ms">
+                        	Si tienes alguna pregunta, propuesta, duda o sugerencia no dudes en escribirme.<br> Te respondere a la brevedad posible.
+                        </p>
+                        <a href="{{ $contacto }}" class="btn btn-default btn-contact wow fadeInDown" data-wow-delay=".8s" data-wow-duration="500ms">Contacta conmigo</a>
                     </div>
                 </div>
                 
@@ -130,7 +132,7 @@ Footer Section Start
 	<div class="container">
 		<div class="col-md-8">
 			<p class="copyright"><i class="fa fa-copyright" aria-hidden="true"></i>
- Copyright <span>2017 </span> | Design and developed by <a href="https://www.facebook.com/RobertoDevel">Roberto Figuera</a></p>
+ Copyright <span>2017 </span> | developed by <a href="https://www.facebook.com/RobertoDevel">Roberto Figuera</a></p>
 		</div>
 		<div class="col-md-4">
 			<!-- Social Media -->

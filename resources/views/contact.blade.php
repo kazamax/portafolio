@@ -1,4 +1,5 @@
 @extends('layout')
+@section('title', 'Pagina de contacto a desarrollo webkaz, creación de aplicaciones web')
 
 @section('content')
 
@@ -44,7 +45,7 @@
                 @endif
                     <div class="col-md-6">
                         <div class="block">
-                            <h2 class="subtitle wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">Contacta conmigo</h2>
+                            <h3 class="subtitle wow fadeInDown fondo-h2" data-wow-duration="500ms" data-wow-delay=".3s">Contacta conmigo</h3>
                             <p class="subtitle-des wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">
                                 Si tienes alguna recomendación, duda o sugerencia no dudes en escribirme, te respondere a la brevedad posible.
                             </p>
@@ -70,7 +71,7 @@
                                     
                                     
                                     <div id="submit" class="wow fadeInDown" data-wow-duration="500ms" data-wow-delay="1.4s">
-                                        <input type="submit" id="contact-submit" class="btn btn-default btn-send" value="Enviar mensaje">
+                                        <input type="submit" id="contact-submit" class="btn btn-default btn-send" value="Enviar-mensaje">
                                     </div>                      
                                     
                                 </form>
@@ -79,7 +80,7 @@
                     </div>
                     <div class="col-md-6">
                          <div class="map-area">
-                            <h2 class="subtitle  wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">Mi ubicación</h2>
+                            <h3 class="subtitle  wow fadeInDown fondo-h2" data-wow-duration="500ms" data-wow-delay=".3s">Mi ubicación</h3>
                             <p class="subtitle-des wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">
                                
                                 
@@ -107,7 +108,7 @@
                     <div class="col-md-3">
                         <div class="email wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".7s">
                             <i class="ion-ios-email-outline"></i>
-                            <p>roberto.figuera.web@gmail.com<br>robertsilkro@hotmail.com</p>
+                            <p>roberto.figuera.web@gmail.com</p>
                         </div>
                     </div>
                     <div class="col-md-3">
