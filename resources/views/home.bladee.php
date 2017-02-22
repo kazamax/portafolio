@@ -2,7 +2,7 @@
 @section('title', 'Desarrollo de aplicaciones web, tiendas online, blog, paginas web, landing pages.')
 
 @section('content')
-olo
+
 <!--
 ==================================================
 Slider Section Start
@@ -28,7 +28,7 @@ Slider Section Start
                     <!-- /.slider -->
                     <h2 class="wow fadeInUp animated" data-wow-delay="1.4s" >
                         Enfocado en dar soluciones web a tu medida.<br>
-                        <b>Desarrollo-webkaz</b>
+                        <b>Desarrollo | Web-kaz</b>
                         </h2>
                     <a class="btn-lines dark light wow fadeInUp animated smooth-scroll btn btn-default btn-green" data-wow-delay="1.8s" href="#works" data-section="#works" ><i class="fa fa-angle-double-down fa-2x" aria-hidden="true"></i></i></a>
 
