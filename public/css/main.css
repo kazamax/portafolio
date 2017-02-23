@@ -1,3 +1,4 @@
+/*color: ; #02bdd5; */
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700);
 @import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(http://fonts.googleapis.com/css?family=Glegoo);
@@ -199,16 +200,16 @@ a:hover {
 
 #hero-area .btn:hover {
  background: white;
-  border: none;
-  color: black;
-  font-size: 16px;
-  font-size: 13px;
-  line-height: 1em;
-  text-transform: uppercase;
-  letter-spacing: normal;
-  border:2px solid black;
-  transition:1s;
-  font-weight: bold;
+ border: none;
+ color: black;
+ font-size: 16px;
+ font-size: 13px;
+ line-height: 1em;
+ text-transform: uppercase;
+ letter-spacing: normal;
+ border:2px solid black;
+ transition:1s;
+ font-weight: bold;
 }
 #call-to-action {
   background: #02bdd5;
@@ -474,13 +475,13 @@ figure figcaption p {
   text-transform: uppercase;
 }
 #contact-section .contact-form .btn-send:hover {
-   background: black;
-  color: #02bdd5;
-   transition: 1s;
-   border: 1px solid #02bdd5;;
-   font-weight: bold;
-   letter-spacing: 1.5px;
-   text-transform: uppercase;
+ background: black;
+ color: #02bdd5;
+ transition: 1s;
+ border: 1px solid #02bdd5;;
+ font-weight: bold;
+ letter-spacing: 1.5px;
+ text-transform: uppercase;
 }
 #contact-section input {
   display: block;
@@ -864,36 +865,36 @@ ul.social-icons li {
   margin-top: 0;
 }
 .wrapper_404 .btn-home {
-   background: white;
-  border: none;
-  color: black;
-  padding: 20px 35px;
-  margin-top: 30px;
-  font-size: 16px;
-  font-size: 13px;
-  line-height: 1em;
-  text-transform: uppercase;
-  letter-spacing: normal;
-  border-radius: 0;
-  border:1px solid black;
-  border-radius: 10px 3px;
-  transition:1s;
+ background: white;
+ border: none;
+ color: black;
+ padding: 20px 35px;
+ margin-top: 30px;
+ font-size: 16px;
+ font-size: 13px;
+ line-height: 1em;
+ text-transform: uppercase;
+ letter-spacing: normal;
+ border-radius: 0;
+ border:1px solid black;
+ border-radius: 10px 3px;
+ transition:1s;
 }
 
 .wrapper_404 .btn-home:hover{
-   background: #02bdd5;
-  border: none;
-  color: black;
-  padding: 20px 35px;
-  font-size: 16px;
-  font-size: 13px;
-  line-height: 1em;
-  text-transform: uppercase;
-  letter-spacing: normal;
-  border-radius: 0;
-  border:1px solid black;
-  border-radius: 3px 10px;
-  transition:1s;
+ background: #02bdd5;
+ border: none;
+ color: black;
+ padding: 20px 35px;
+ font-size: 16px;
+ font-size: 13px;
+ line-height: 1em;
+ text-transform: uppercase;
+ letter-spacing: normal;
+ border-radius: 0;
+ border:1px solid black;
+ border-radius: 3px 10px;
+ transition:1s;
 }
 .company-description {
   margin-top: 80px;
@@ -1217,6 +1218,33 @@ article {
   color:white;
   border-radius: 2px;
 }
+
+
+.avatar{
+  border: 2px solid black;
+  border-radius: 50%;
+  float: left;
+  height: 120px;
+  width: 120px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .margin-top-barras{
   margin-top: 8px;
