@@ -41,12 +41,18 @@
                         <img src="images/about/sobre-mi-roberto-figuera.jpg" alt="" class="img-responsive">
                     </div>
                     <div class="col-md-6">
-                        <div class="block">
-                            <h2 style="text-align: center;" class="subtitle wow fadeInUp  " data-wow-delay=".7s" data-wow-duration="500ms">Marcando la diferencia en desarrollo de aplicaciones web</h2>
-                            <p class="wow fadeInUp text-indent" data-wow-delay=".9s" data-wow-duration="500ms">
-                                Para desarrollar una aplicacion web, pagina personal, blog, o tienda en linea se debe tener conocimiento y dominio de uno o mas <strong>lenguajes de programaci&oacute;n</strong> y dependiendo de los requerimientos que va a llevar el desarrollo del proyecto y de el grado de complejidad se deben utilizar unas u otras herramientas.<br><br> Por eso siempre estoy enfocado en aprender distintas tecnologias y lenguajes de programaci&oacute;n para un desarrollo oportuno y confiable, esto con la finalidad de brindar un servicio profesional y que el cliente quede feliz y satisfecho con la inversion hecha.
-                            </p>
-                        </div>
+                        <div class="section-heading">
+                    <h2 class="wow fadeInDown fondo-h2" data-wow-delay=".5s">TIENDAS ONLINE, PAGINAS WEBS, BLOGS, PORTAFOLIOS, SISTEMAS ADMINS</h2><br>
+                    <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
+                        <div class="panel panel-default">
+                            <div class="panel-body">
+                                <p style="text-align: left;" class="subtitle-des wow fadeInUp animated" data-wow-delay=".7s" data-wow-duration="700ms"><br>
+                                   Para desarrollar una aplicacion web, pagina personal, blog, o tienda en linea se debe tener conocimiento y dominio de uno o mas <strong>lenguajes de programaci&oacute;n</strong> y dependiendo de los requerimientos que va a llevar el desarrollo del proyecto y de el grado de complejidad se deben utilizar unas u otras herramientas.<br><br> Por eso siempre estoy enfocado en aprender distintas tecnologias y lenguajes de programaci&oacute;n para un desarrollo oportuno y confiable, esto con la finalidad de brindar un servicio profesional y que el cliente quede feliz y satisfecho con la inversion hecha.
+                               </p>
+                           </div>
+                       </div>
+                   </div>
+               </div>
                     </div>
                 </div>
             </div>
@@ -105,7 +111,7 @@
                             <h3 class="team_name">Roberto Figuera</h3>
                             <p class="team_designation">Programador de aplicaciones web<br></p>
                             <p class="social-icons">
-                                <a href="#" class="facebook" target="_blank"><i class="ion-social-facebook-outline"></i></a>
+                                <a href="https://www.facebook.com/RobertoDevel" class="facebook" target="_blank"><i class="ion-social-facebook-outline"></i></a>
                                 <a href="#" target="_blank"><i class="ion-social-twitter-outline"></i></a>
                                 <a href="#" target="_blank"><i class="ion-social-linkedin-outline"></i></a>
                                 <a href="#" target="_blank"><i class="ion-social-googleplus-outline"></i></a> 
@@ -115,16 +121,35 @@
                     <div class="col-md-4">
                         <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".9s">
                            
-                            <h3 class="team_name">Estudios finalizados</h3><br>
+                            <h3 class="team_name"><i style="color:black" class="fa fa-graduation-cap" aria-hidden="true"></i> Estudios finalizados
+</h3><br>
                             <p class="team_text">Tecnico superior en informatica. ( UPTJAA-2013 )</p>
                             <p class="team_text">Ingeniero en informatica. ( UPTJAA-2016 )</p> 
                             
-                            <h3 class="team_name">Cursos</h3><br>
+                            <h3 class="team_name"><i style="color:black" class="fa fa-leanpub" aria-hidden="true"></i>
+ Cursos</h3><br>
                             <p class="team_text">Html5,css3 y php 25/horas.</p>
                             <p class="team_text">Dise&ntilde;o web desde cero a avanzado <a target="_blank" href="https://www.udemy.com/diseno-web-desde-cero/"> ( Udemy ) </a> - 45/horas.</p>
                             <p class="team_text">Manejo gnu-linux 20-horas.</p>
                             <p class="team_text">Ofimatica en software libre 20-horas.</p>
                             <p class="team_text">Reparaci&oacute;n y mantenimiento de computadoras 20/horas.</p>
+                            <h3 class="team_text"><i style="color: black" class="fa fa-plus" aria-hidden="true"></i>
+ Plus</h3><br>
+                            <p class="team-text">
+                                Desarrollo en entornos con Windows y Linux.
+                            </p>
+                            <p class="team-text">
+                                Manejo medio MVC y OOP.
+                            </p>
+                            <p class="team-text">
+                                Tengo deseos de adaptarme a demandas laborales de diversas índoles en el area.
+                            </p>
+                            <p class="team-text">
+                                Dominio del ingles : tecnico.
+                            </p>
+                           <p class="team-text">   
+                                100% Autodidacta
+                            </p>
 
                         </div>
                     </div>
@@ -134,8 +159,8 @@
                             <h3 class="team_name">Dominio y uso de tecnologias</h3>
                             <br>
                             <div class="progress">
-                              <div class="progress-bar barras" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;background: yellow;color:black">
-                                HTML5 - 75%
+                              <div class="progress-bar barras" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;background: yellow;color:black">
+                                HTML5 - 70%
                             </div>
                         </div>
                     </div>
@@ -160,6 +185,19 @@
 
                               <div class="progress-bar barras" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 55%;background: yellow;color:black">
                                 PHP - 55%
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    
+                    <div class="row">   
+                        <div class="col-md-12">  
+                        <div class="margin-top-barras team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay="1.3s">
+                                                    <div class="progress">
+
+                              <div class="progress-bar barras" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 35%;background: yellow;color:black">
+                                JAVASCRIPT - 35%
                             </div>
                             </div>
                         </div>
@@ -207,6 +245,19 @@
 
                      <div class="row">   
                         <div class="col-md-12">  
+                        <div class="margin-top-barras team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay="1.5s">
+                                                    <div class="progress">
+
+                              <div class="progress-bar barras" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 50%;background: blue;">
+                                MATERIAL DESIGN - 50%
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+
+                     <div class="row">   
+                        <div class="col-md-12">  
                         <div class="margin-top-barras team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay="1.7s">
                                                     <div class="progress">
 
@@ -243,6 +294,7 @@
                         </div>
                         </div>
                     </div>
+                    
 
                     {{-- <div class="row">   
                         <div class="col-md-12">  
