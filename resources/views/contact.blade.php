@@ -1,5 +1,5 @@
 @extends('layout')
-@section('title', 'Pagina de contacto a desarrollo webkaz, creación de aplicaciones web')
+@section('title', 'Aqui podras ponerte en contacto dejar, dudas o sugerencias | desarrollo web-kaz')
 
 @section('content')
 
@@ -54,19 +54,19 @@
                                     {{ csrf_field() }}
                         
                                     <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".6s">
-                                        <input type="text" placeholder="Tu nombre" class="form-control" name="name" id="name" required>
+                                        <input type="text" placeholder="Tu nombre..." class="form-control" name="name" id="name" required>
                                     </div>
                                     
                                     <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".8s">
-                                        <input type="email" placeholder="Tu correo electronico" class="form-control" name="email" id="email" required >
+                                        <input type="email" placeholder="Tu correo electronico..." class="form-control" name="email" id="email" required >
                                     </div>
                                     
                                     <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay="1s">
-                                        <input type="text" placeholder="Asunto" class="form-control" name="subject" id="subject" required>
+                                        <input type="text" placeholder="Asunto del mensaje..." class="form-control" name="subject" id="subject" required>
                                     </div>
                                     
                                     <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay="1.2s">
-                                        <textarea rows="6" placeholder="Mensaje" class="form-control" name="body" id="message" required></textarea>    
+                                        <textarea rows="6" placeholder="Cuerpo del Mensaje..." class="form-control" name="body" id="message" required></textarea>    
                                     </div>
                                     
                                     

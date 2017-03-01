@@ -52,7 +52,7 @@ Slider Section Start
             <div class="col-lg-8 col-md-7">
                 <div style="background: #02bdd5; border:1px solid black" class="jumbotron block wow fadeInLeft" data-wow-delay=".3s" data-wow-duration="500ms"">
                   <h3 style="color:white; letter-spacing: 2px;font-size: 2em;text-align: center;margin-bottom: 1em;"><img style="margin-left: 10px;" class="avatar" src="images/about/roberto-figuera-developer.png" width="100%" height="100%">Hola!!! bienvenidos a mi website</h3>
-                  <p style="padding: 1em;" class="text-indent">Mi nombre es Roberto Figuera y me encanta programar me considero una persona 100% autodidacta, en mis ratos libres me divierto con juegos online, de alli nacio mi seudónimo Kazama me gustan los retos, ayudar a las personas y vivir aplicando el paradigma Lifelong learning...</p>
+                  <p style="padding: 1em;" class="text-indent">Mi nombre es Roberto Figuera y me encanta programar me considero una persona 100% autodidacta, en mis ratos libres me divierto con juegos online, de alli nacio mi seudónimo Kazama me gustan los retos, ayudar a las personas y vivir aplicando el Lifelong learning...</p>
                   <p><a style="margin-left: 10px;" class="btn btn-default btn-lg" href="{{ $quien_soy }}" role="button">Experiencia</a></p>
                     
               </div>

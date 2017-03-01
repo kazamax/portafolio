@@ -1,5 +1,5 @@
 @extends('layout')
-@section('title', 'Quien soy? Programador de aplicaciones, tiendas online, paginas web.')
+@section('title', 'Soy programador freelancer de aplicaciones, tiendas online, paginas web, blogs')
 
 @section('content')
 
@@ -63,7 +63,7 @@
         ================================================== 
             Company Feature Section Start
         ================================================== -->
-        <section class="about-feature clearfix">
+       {{--  <section class="about-feature clearfix">
             <div class="container-fluid">
                 <div class="row">
                     <div class="block about-feature-1 wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">
@@ -92,7 +92,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> --}}
 
 
         <!-- 
@@ -210,7 +210,7 @@
                                                     <div class="progress">
 
                               <div class="progress-bar barras" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;background: blue;">
-                                WORPRESS - 70%
+                                WORPDRESS - 70%
                             </div>
                             </div>
                         </div>
