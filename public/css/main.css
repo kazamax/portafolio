@@ -1229,6 +1229,7 @@ article {
 }
 
 
+<<<<<<< HEAD
 
 
 
@@ -1236,6 +1237,44 @@ article {
 
 
 
+=======
+input[type=text]:focus {
+    letter-spacing: 1px;
+    transition: 1s !important;
+    color:#02bdd5;
+    font-weight: bold;
+    font-size: 1.2em;
+
+    outline: none !important;
+    border-color: #02bdd5 !important;
+    box-shadow: 0 0 10px #02bdd5 !important;
+}
+
+input[type=email]:focus {
+    letter-spacing: 1px;
+    transition: 1s !important;
+    color:#02bdd5;
+    font-weight: bold;
+    font-size: 1.2em;
+    outline: none !important;
+    border-color: #02bdd5 !important;
+    box-shadow: 0 0 10px #02bdd5 !important;
+}
+
+
+
+textarea:focus { 
+
+    letter-spacing: 1px;
+    transition: 1s !important;
+    color:#02bdd5;
+    font-weight: bold;
+    font-size: 1.2em;
+    outline: none !important;
+    border-color: #02bdd5 !important;
+    box-shadow: 0 0 10px #02bdd5 !important;
+}
+>>>>>>> master
 
 
 
