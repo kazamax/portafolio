@@ -77,7 +77,7 @@ Header Section Start
 		<div class="navbar-brand ocultar">
 			<?php $inicio = 'https://web-kaz.herokuapp.com/'; ?>
 			<a href="{{ $inicio }}" >
-				<img style="margin-top:-30px;height: 85px" src="images/logo-pagina-web-webkaz.jpg" alt="">
+				<img style="margin-top:-30px;height: 85px" src="images/logo-pagina-web-webkaz.jpg" alt="Logo de la pagina web, Desarrollo | web-kaz">
 			</a>
 		</div>
 		<!-- /logo -->

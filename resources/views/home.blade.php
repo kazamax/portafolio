@@ -51,19 +51,14 @@ Slider Section Start
         <div class="row">
             <div class="col-lg-8 col-md-7">
                 <div style="background: #02bdd5; border:1px solid black" class="jumbotron block wow fadeInLeft" data-wow-delay=".3s" data-wow-duration="500ms"">
-                  <h3 style="color:white; letter-spacing: 2px;font-size: 2em;text-align: center;margin-bottom: 1em;"><img style="margin-left: 10px;" class="avatar" src="images/about/roberto-figuera-developer.png" width="100%" height="100%">Hola!!! bienvenidos a mi website</h3>
-<<<<<<< HEAD
+                  <h3 style="color:white; letter-spacing: 2px;font-size: 2em;text-align: center;margin-bottom: 1em;"><img style="margin-left: 10px;" class="avatar" src="images/about/roberto-figuera-developer.png" alt="Roberto figuera programador de paginas web desarrollo web-kaz" width="100%" height="100%">Hola!!! bienvenidos a mi website</h3>
                   <p style="padding: 1em;" class="text-indent">Mi nombre es Roberto Figuera y me encanta programar me considero una persona 100% autodidacta, en mis ratos libres me divierto con juegos online, de alli nacio mi seudónimo Kazama me gustan los retos, ayudar a las personas y vivir aplicando el paradigma Lifelong learning...</p>
-=======
-                  <p style="padding: 1em;" class="text-indent">Mi nombre es Roberto Figuera y me encanta programar me considero una persona 100% autodidacta, en mis ratos libres me divierto con juegos online, de alli nacio mi seudónimo Kazama me gustan los retos, ayudar a las personas y vivir aplicando el Lifelong learning...</p>
->>>>>>> master
-                  <p><a style="margin-left: 10px;" class="btn btn-default btn-lg" href="{{ $quien_soy }}" role="button">Experiencia</a></p>
-                    
+
               </div>
           </div>
           <div class="col-lg-4 col-md-5">
                 <div class="block wow fadeInRight" data-wow-delay=".3s" data-wow-duration="500ms">
-                    <img class="img-responsive img-thumbnail" src="images/about/about.jpg" alt="">
+                    <img class="img-responsive img-thumbnail" src="images/about/about.jpg" alt="Programador de paginas web Roberto Figuera Desarrollo | web-kaz">
                 </div>
             </div>
       </div>
@@ -93,10 +88,10 @@ Portfolio Section Start
             <div class="col-sm-4 col-xs-12">
                 <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="0ms">
                     <div class="img-wrapper">
-                        <img src="images/portfolio/item-1.jpg" class="img-responsive" alt="this is a title" >
+                        <img src="images/portfolio/portafolio-web.jpg" class="img-responsive" alt="Portafolio web Roberto figuera desarrollo web-kaz" >
                         <div class="overlay">
                             <div class="buttons">
-                                <a rel="gallery" class="fancybox" href="images/portfolio/item-1.jpg">Demo</a>
+                                <a rel="gallery" class="fancybox" href="images/portfolio/portafolio-web.jpg">Demo</a>
                                 <a target="_blank" href="single-portfolio.html">Detalles</a>
                             </div>
                         </div>
@@ -116,10 +111,10 @@ Portfolio Section Start
             <div class="col-sm-4 col-xs-12">
                 <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                     <div class="img-wrapper">
-                        <img src="images/portfolio/item-2.jpg" class="img-responsive" alt="this is a title" >
+                        <img src="images/portfolio/portafolio-tienda-online.jpg" class="img-responsive" alt="Tienda online creada por Roberto Figuera desarrollo web-kaz" >
                         <div class="overlay">
                             <div class="buttons">
-                                <a rel="gallery" class="fancybox" href="images/portfolio/item-2.jpg">Demo</a>
+                                <a rel="gallery" class="fancybox" href="images/portfolio/portafolio-tienda-online.jpg">Demo</a>
                                 <a target="_blank" href="https://subli-forgames.rhcloud.com/">Detalles</a>
                             </div>
                         </div>
@@ -139,7 +134,7 @@ Portfolio Section Start
             <div class="col-sm-4 col-xs-12">
                 <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                     <div class="img-wrapper">
-                        <img src="images/portfolio/portafolio-webkaz-roberto-figuera.png" class="img-responsive" alt="" >
+                        <img src="images/portfolio/portafolio-webkaz-roberto-figuera.png" class="img-responsive" alt="pagina web hecha por Roberto Figuera" >
                         <div class="overlay">
                             <div class="buttons">
                                 <a rel="gallery" class="fancybox" href="images/portfolio/portafolio-webkaz-roberto-figuera.png">Demo</a>
@@ -162,10 +157,10 @@ Portfolio Section Start
             <div class="col-sm-4 col-xs-12">
                 <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
                     <div class="img-wrapper">
-                        <img src="images/portfolio/item-4.jpg" class="img-responsive" alt="" >
+                        <img src="images/portfolio/portafolio-web-paginas-web.jpg" class="img-responsive" alt="mi proyecto de portafolio web " >
                         <div class="overlay">
                             <div class="buttons">
-                                <a rel="gallery" class="fancybox" href="images/portfolio/item-4.jpg">Demo</a>
+                                <a rel="gallery" class="fancybox" href="images/portfolio/portafolio-web-paginas-web.jpg">Demo</a>
                                 <a target="_blank" href="single-portfolio.html">Detalles</a>
                             </div>
                         </div>
@@ -185,10 +180,10 @@ Portfolio Section Start
             <div class="col-sm-4 col-xs-12">
                 <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="900ms">
                     <div class="img-wrapper">
-                        <img src="images/portfolio/item-5.jpg" class="img-responsive" alt="" >
+                        <img src="images/portfolio/portafolio-web-tienda-online.jpg" class="img-responsive" alt="Tienda online hecha por Roberto Figuera, pagina web" >
                         <div class="overlay">
                             <div class="buttons">
-                                <a rel="gallery" class="fancybox" href="images/portfolio/item-5.jpg">Demo</a>
+                                <a rel="gallery" class="fancybox" href="images/portfolio/portafolio-web-tienda-online.jpg">Demo</a>
                                 <a target="_blank" href="https://subli-forgames.rhcloud.com/">Detalles</a>
                             </div>
                         </div>
@@ -208,7 +203,7 @@ Portfolio Section Start
             <div class="col-sm-4 col-xs-12">
                 <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="1200ms">
                     <div class="img-wrapper">
-                        <img src="images/portfolio/portafolio-web-kaz-roberto-figuera.png" class="img-responsive" alt="" >
+                        <img src="images/portfolio/portafolio-web-kaz-roberto-figuera.png" class="img-responsive" alt="Portafolio personal Desarrollo web-kaz pagina web" >
                         <div class="overlay">
                             <div class="buttons">
                                 <a rel="gallery" class="fancybox" href="images/portfolio/portafolio-web-kaz-roberto-figuera.png">Demo</a>
