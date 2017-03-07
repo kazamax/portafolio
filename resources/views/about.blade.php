@@ -131,7 +131,7 @@
  Cursos</h3><br>
                             <p class="team_text">Html5,css3 y php 25/horas.</p>
                             <p class="team_text">Dise&ntilde;o web desde cero a avanzado <a target="_blank" href="https://www.udemy.com/diseno-web-desde-cero/"> ( Udemy ) </a> - 45/horas.</p>
-                            <p class="team_text">Manejo gnu-linux 20-horas.</p>
+                            <p class="team_text">Manejo Gnu-linux 20-horas.</p>
                             <p class="team_text">Ofimatica en software libre 20-horas.</p>
                             <p class="team_text">Reparaci&oacute;n y mantenimiento de computadoras 20/horas.</p>
                             <h3 class="team_text"><i style="color: black" class="fa fa-plus" aria-hidden="true"></i>
