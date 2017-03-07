@@ -91,10 +91,7 @@
                     
                     
                    <div class="section-heading">
-<<<<<<< HEAD
 
-=======
->>>>>>> master
                     <h2 class="wow fadeInDown fondo-h2" data-wow-delay=".3s">TIENDAS ONLINE, BLOGS, PORTAFOLIOS, SISTEMAS ADMINS</h2><br>
                     <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
                         <div class="panel panel-default">
@@ -102,7 +99,7 @@
                                 <p style="text-align: left;" class="subtitle-des wow fadeInUp animated" data-wow-delay=".5s" data-wow-duration="700ms"><br>
                                    Si estas leyendo esta sección es porque :<br><br> - Opcion (1) estas interesado en darte a conocer por alguna actividad que realices y quieras ser reconocido/a por lo que haces y deseas tener un <strong>blog</strong> donde escribir tus ideas, notas, recetas y lo sepa la gente.<br><br> - Opcion (2) Eres emprendedor y quieres comerte al mundo ofreciendo productos unicos y asi comenzar a tener presencia online que se traducirian en mas ventas y trafico para tu negocio.<br><br> - Opcion (3) Tienes una <strong>empresa</strong> y necesitas una <strong>pagina web</strong> para tener mas contacto y cercania con tus clientes o tener mas control y llevar registro de lo que ingresa y lo que no a la misma.<br><br>- Opcion (4) Eres estudiante universitario y necesitas soporte para entregar el proyecto ya finiquitado en los lapsos estipulados por tus asesores o profesores.<br><br> Cualquiera que sea su opcion esta en el lugar indicado contacte mis servicios de <strong>freelance</strong> para hacer un estudio de la problematica y asi poder brindar la solución que mas se adapte a su necesidad.
 
-<<<<<<< HEAD
+
                     <h2 class="wow fadeInDown fondo-h2" data-wow-delay=".2s">TIENDAS ONLINE, BLOGS, PORTAFOLIOS, SISTEMAS ADMINS</h2><br>
                     <div class="media wow fadeInUp animated" data-wow-duration=400ms" data-wow-delay="200ms">
                         <div class="panel panel-default">
@@ -110,8 +107,7 @@
                                 <p style="text-align: left;" class="subtitle-des wow fadeInUp animated" data-wow-delay=".4s" data-wow-duration="700ms"><br>
                                    Si estas leyendo esta sección es porque :<br><br> - Opcion (1) estas interesado en darte a conocer por alguna actividad que realices y quieras ser reconocido/a por lo que haces y deseas tener un <strong>blog</strong> donde escribir tus ideas, notas, recetas y lo sepa la gente.<br><br> - Opcion (2) Eres emprendedor y quieres comerte al mundo ofreciendo productos unicos y asi comenzar a tener presencia online que se traducirian en mas ventas y trafico para tu negocio.<br><br> - Opcion (3) Tienes una <strong>empresa</strong> y necesitas una <strong>pagina web</strong> para tener mas contacto y cercania con tus clientes o tener mas control y llevar registro de lo que ingresa y lo que no a la misma.<br><br>- Opcion (4) Eres estudiante universitario y necesitas soporte para entregar el proyecto ya finiquitado en los lapsos estipulados por tus asesores o profesores.<br><br> Cualquiera que sea tu opcion estas en el lugar indicado contacta mis servicios de <strong>freelance</strong> para hacer un estudio de la problematica y asi poder brindar la solución que mas se adapte a tu necesidad.
 
-=======
->>>>>>> master
+
                                </p>
                            </div>
                        </div>
@@ -121,10 +117,7 @@
 
              <div class="col-md-6">
             <div class="section-heading">
-<<<<<<< HEAD
 
-=======
->>>>>>> master
                     <h2 class="wow fadeInDown fondo-h2" data-wow-delay=".5s">OPTIMIZACION DE TU PAGINA WEB SEO + VENTAS = EXITO</h2><br>
                     <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
                         <div class="panel panel-default">
@@ -202,16 +195,13 @@
 
                 <div class="row">
                     <div class="col-sm-3">
-<<<<<<< HEAD
 
                          <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="0ms">
 
                          <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="100ms">
 
-=======
                          <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="0ms">
                          <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="100ms">
->>>>>>> master
                     <div class="img-wrapper">
                         <img src="images/portfolio/portafolio-web.jpg" class="img-responsive" alt="Portafolio web Roberto figuera desarrollo web-kaz" >
                         <div class="overlay">
@@ -235,16 +225,13 @@
                     </div>
 
                     <div class="col-sm-3">
-<<<<<<< HEAD
 
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
 
                         <figure class="wow fadeInLeft animated" data-wow-duration="800ms" data-wow-delay="450ms">
 
-=======
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                         <figure class="wow fadeInLeft animated" data-wow-duration="800ms" data-wow-delay="450ms">
->>>>>>> master
                     <div class="img-wrapper">
                         <img src="images/portfolio/portafolio-tienda-online.jpg" class="img-responsive" alt="Tienda online creada por Roberto Figuera desarrollo web-kaz" >
                         <div class="overlay">
@@ -268,16 +255,13 @@
                     </div>
 
                     <div class="col-sm-3">
-<<<<<<< HEAD
 
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
 
                         <figure class="wow fadeInLeft animated" data-wow-duration="1.1s" data-wow-delay="750ms">
 
-=======
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                         <figure class="wow fadeInLeft animated" data-wow-duration="1.1s" data-wow-delay="750ms">
->>>>>>> master
                     <div class="img-wrapper">
                         <img src="images/portfolio/portafolio-webkaz-roberto-figuera.png" class="img-responsive" alt="pagina web hecha por Roberto Figuera" >
                         <div class="overlay">
@@ -301,16 +285,14 @@
                     </div>
 
                     <div class="col-sm-3">
-<<<<<<< HEAD
 
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
 
                         <figure class="wow fadeInLeft animated" data-wow-duration="1.4" data-wow-delay="1.1s">
 
-=======
+
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
                         <figure class="wow fadeInLeft animated" data-wow-duration="1.4" data-wow-delay="1.1s">
->>>>>>> master
                     <div class="img-wrapper">
                         <img src="images/portfolio/portafolio-web-paginas-web.jpg" class="img-responsive" alt="" >
                         <div class="overlay">
