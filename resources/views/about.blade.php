@@ -143,7 +143,7 @@
                                 Manejo medio MVC y OOP.
                             </p>
                             <p class="team-text">
-                                Tengo deseos de adaptarme a demandas laborales de diversas Ã­ndoles en el area.
+                                Tengo deseos de adaptarme a demandas laborales de diversas índoles en el area.
                             </p>
                             <p class="team-text">
                                 Dominio del ingles : tecnico.
