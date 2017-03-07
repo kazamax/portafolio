@@ -1229,7 +1229,6 @@ article {
 }
 
 
-<<<<<<< HEAD
 
 
 
@@ -1237,7 +1236,6 @@ article {
 
 
 
-=======
 input[type=text]:focus {
     letter-spacing: 1px;
     transition: 1s !important;
@@ -1274,7 +1272,6 @@ textarea:focus {
     border-color: #02bdd5 !important;
     box-shadow: 0 0 10px #02bdd5 !important;
 }
->>>>>>> master
 
 
 

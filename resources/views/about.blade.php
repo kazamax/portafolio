@@ -1,3 +1,4 @@
+
 @extends('layout')
 @section('title', 'Soy programador freelancer de aplicaciones, tiendas online, paginas web, blogs')
 
@@ -38,7 +39,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 wow fadeInLeft" data-wow-delay=".3s" >
-                        <img src="images/about/sobre-mi-roberto-figuera.jpg" alt="Programador de aplicaciones web Roberto figuera Desarrollo | web-kaz" class="img-responsive">
+                        <img src="images/about/sobre-mi-roberto-figuera.jpg" alt="" class="img-responsive">
                     </div>
                     <div class="col-md-6">
                         <div class="section-heading">
@@ -106,7 +107,7 @@
                     <div class="col-sm-4">
                         <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".7s">
                             <div class="team-img">
-                                <img src="images/team/roberto-figuera.jpg" class="team-pic" alt="Programador de paginas web Roberto figuera Desarrollo | web-kaz">
+                                <img src="images/team/team-1.jpg" class="team-pic" alt="">
                             </div>
                             <h3 class="team_name">Roberto Figuera</h3>
                             <p class="team_designation">Programador de aplicaciones web<br></p>
