@@ -39,7 +39,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 wow fadeInLeft" data-wow-delay=".3s" >
-                        <img src="images/about/sobre-mi-roberto-figuera.jpg" alt="" class="img-responsive">
+                        <img src="images/about/sobre-mi-roberto-figuera.jpg" alt="Ventajas de tu pagina web" class="img-responsive">
                     </div>
                     <div class="col-md-6">
                         <div class="section-heading">
@@ -107,7 +107,7 @@
                     <div class="col-sm-4">
                         <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".7s">
                             <div class="team-img">
-                                <img src="images/team/team-1.jpg" class="team-pic" alt="">
+                                <img src="images/team/roberto-figuera.jpg" class="team-pic" alt="Programador de páginas web-kaz Roberto Figuera">
                             </div>
                             <h3 class="team_name">Roberto Figuera</h3>
                             <p class="team_designation">Programador de aplicaciones web<br></p>
@@ -131,8 +131,8 @@
  Cursos</h3><br>
                             <p class="team_text">Html5,css3 y php 25/horas.</p>
                             <p class="team_text">Dise&ntilde;o web desde cero a avanzado <a target="_blank" href="https://www.udemy.com/diseno-web-desde-cero/"> ( Udemy ) </a> - 45/horas.</p>
-                            <p class="team_text">Manejo Gnu-linux 20-horas.</p>
-                            <p class="team_text">Ofimatica en software libre 20-horas.</p>
+                            <p class="team_text">Manejo Gnu-linux 40-horas.</p>
+                            <p class="team_text">Ofimatica en software libre 30-horas.</p>
                             <p class="team_text">Reparaci&oacute;n y mantenimiento de computadoras 20/horas.</p>
                             <h3 class="team_text"><i style="color: black" class="fa fa-plus" aria-hidden="true"></i>
  Plus</h3><br>
@@ -211,7 +211,7 @@
                                                     <div class="progress">
 
                               <div class="progress-bar barras" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;background: blue;">
-                                WORPDRESS - 70%
+                                WORDPRESS - 70%
                             </div>
                             </div>
                         </div>

@@ -1,3 +1,4 @@
+
 @extends('layout')
 @section('title', 'Desarrollo de aplicaciones web, tiendas online, blog, paginas web, landing pages.')
 
@@ -63,7 +64,6 @@ Slider Section Start
       </div>
   </div>
 </section>
-
  <!--
 ==================================================
 Portfolio Section Start
@@ -225,14 +225,12 @@ Portfolio Section Start
         </div>
     </div>
 </section> <!-- #works -->
-
  <!--
 ==================================================
 Portfolio Section Start
 ================================================== -->
 <section id="feature">
     <div class="container">
-
      <div class="section-heading">
         <h2 class="wow fadeInDown fondo-h2" data-wow-delay=".4s">SERVICIOS</h2><br>
         <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
@@ -336,4 +334,3 @@ Portfolio Section Start
     </div>
 </section> <!-- /#feature -->
 @stop
-
