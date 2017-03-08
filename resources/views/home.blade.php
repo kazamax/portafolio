@@ -333,5 +333,3 @@ Portfolio Section Start
     </div>
 </section> <!-- /#feature -->
 @stop
-Contact GitHub API Training Shop Blog About
-© 2017 GitHub, Inc. Terms Privacy Security Status Help
