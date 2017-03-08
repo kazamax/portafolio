@@ -1,22 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Gist
- @kazamax
- Sign out
- Unwatch 1
-  Star 0
-  Fork 0 kazamax/portafolio
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Pulse  Graphs  Settings
-Branch: master Find file Copy pathportafolio/resources/views/home.blade.php
-110b671  11 minutes ago
- Roberto Figuera subo
-0 contributors
-RawBlameHistory     
-337 lines (327 sloc)  17.2 KB
-
 @extends('layout')
 @section('title', 'Desarrollo de aplicaciones web, tiendas online, blog, paginas web, landing pages.')
 
