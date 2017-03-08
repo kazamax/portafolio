@@ -63,40 +63,40 @@ Header Section Start
 ================================================== -->
 <header id="top-bar" class="navbar-fixed-top animated-header">
 <div class="container">
-	<div class="navbar-header">
-		<!-- responsive nav button -->
-		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-			<span class="sr-only">Toggle navigation</span>
-			<span class="icon-bar"></span>
-			<span class="icon-bar"></span>
-			<span class="icon-bar"></span>
-		</button>
-		<!-- /responsive nav button -->
+    <div class="navbar-header">
+        <!-- responsive nav button -->
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <!-- /responsive nav button -->
 
-		<!-- logo -->
-		<div class="navbar-brand ocultar">
-			<?php $inicio = 'https://web-kaz.herokuapp.com/'; ?>
-			<a href="{{ $inicio }}" >
-				<img style="margin-top:-30px;height: 85px" src="images/logo-pagina-web-webkaz.jpg" alt="Logo de la pagina web, Desarrollo | web-kaz">
-			</a>
-		</div>
-		<!-- /logo -->
-	</div>
-	<!-- main menu -->
-	<nav class="collapse navbar-collapse navbar-right" role="navigation">
-		<div class="main-menu">
-			<ul class="nav navbar-nav navbar-right">
+        <!-- logo -->
+        <div class="navbar-brand ocultar">
+            <?php $inicio = 'https://web-kaz.herokuapp.com/'; ?>
+            <a href="{{ $inicio }}" >
+                <img style="margin-top:-30px;height: 85px" src="images/logo-pagina-web-webkaz.jpg" alt="Logo de la pagina web, Desarrollo | web-kaz">
+            </a>
+        </div>
+        <!-- /logo -->
+    </div>
+    <!-- main menu -->
+    <nav class="collapse navbar-collapse navbar-right" role="navigation">
+        <div class="main-menu">
+            <ul class="nav navbar-nav navbar-right">
                 <?php $quiensoy = 'https://web-kaz.herokuapp.com/quien-soy'; ?>
                 <?php $servicios = 'https://web-kaz.herokuapp.com/servicios'; ?>
                 <?php $contacto = 'https://web-kaz.herokuapp.com/contacto'; ?>
-				<li><a href="{{ $inicio }}" >Inicio</a></li>
-				<li><a href="{{ $servicios }}">Servicios</a></li>
-				<li><a href="{{ $quiensoy}}">Quien-soy</a></li>
-				<li><a href="{{ $contacto }}">Contacto</a></li>
-			</ul>
-		</div>
-	</nav>
-	<!-- /main nav -->
+                <li><a href="{{ $inicio }}" >Inicio</a></li>
+                <li><a href="{{ $servicios }}">Servicios</a></li>
+                <li><a href="{{ $quiensoy}}">Quien-soy</a></li>
+                <li><a href="{{ $contacto }}">Contacto</a></li>
+            </ul>
+        </div>
+    </nav>
+    <!-- /main nav -->
 </div>
 </header>
 
@@ -115,7 +115,7 @@ Header Section Start
                     <div class="block">
                         <h2 class="title wow fadeInDown" data-wow-delay=".5s" data-wow-duration="500ms">INTERESADO/A EN QUE TRABAJEMOS JUNTOS?</h1>
                         <p class="wow fadeInDown" data-wow-delay=".7s" data-wow-duration="500ms">
-                        	Si tienes alguna pregunta, propuesta, duda o sugerencia no dudes en escribirme.<br> Te respondere a la brevedad posible.
+                            Si tienes alguna pregunta, propuesta, duda o sugerencia no dudes en escribirme.<br> Te respondere a la brevedad posible.
                         </p>
                         <a href="{{ $contacto }}" class="btn btn-default btn-contact wow fadeInDown" data-wow-delay=".8s" data-wow-duration="500ms">Contacta conmigo</a>
                     </div>
@@ -129,37 +129,38 @@ Header Section Start
 Footer Section Start
 ================================================== -->
 <footer id="footer">
-	<div class="container">
-		<div class="col-md-8">
-			<p class="copyright"><i class="fa fa-copyright" aria-hidden="true"></i>
+    <div class="container">
+        <div class="col-md-8">
+            <p class="copyright"><i class="fa fa-copyright" aria-hidden="true"></i>
  Copyright <span>2017 </span> | developed by <a href="https://www.facebook.com/RobertoDevel">Roberto Figuera</a></p>
-		</div>
-		<div class="col-md-4">
-			<!-- Social Media -->
-			<ul class="social">
-				<li>
-					<a href="https://www.facebook.com/RobertoDevel" class="Facebook">
-						<i class="ion-social-facebook"></i>
-					</a>
-				</li>
-				<li>
-					<a href="http://wwww.twitter.com/robertoDevel" class="Twitter">
-						<i class="ion-social-twitter"></i>
-					</a>
-				</li>
-				<li>
-					<a href="#" class="Linkedin">
-						<i class="ion-social-linkedin"></i>
-					</a>
-				</li>
-				<li>
-					<a href="#" class="Google Plus">
-						<i class="ion-social-googleplus"></i>
-					</a>
-				</li>
-			</ul>
-		</div>
-	</div>
+        </div>
+        <div class="col-md-4">
+            <!-- Social Media -->
+            <ul class="social">
+                <li>
+                    <a href="https://www.facebook.com/RobertoDevel" class="Facebook">
+                        <i class="ion-social-facebook"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="http://wwww.twitter.com/robertoDevel" class="Twitter">
+                        <i class="ion-social-twitter"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" class="Linkedin">
+                        <i class="ion-social-linkedin"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" class="Google Plus">
+                        <i class="ion-social-googleplus"></i>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
 </footer> <!-- /#footer -->
 </body>
 </html>
+    
